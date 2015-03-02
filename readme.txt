@@ -8,6 +8,8 @@ Stable tag: 1.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
+Make your Screen Options and Help tabs more noticeable. 
+
 == Description ==
 
 This plugin only does one simple thing: it makes your "Screen Options" and "Help" tabs at the top of your screen more noticeable. 
