@@ -1,14 +1,12 @@
-=== Plugin Name ===
+=== Seeing Red ===
 Contributors: kjodle
-Donate link: http://blog.kjodle.net/
-Tags: screen options
-Requires at least: 2.0.2
-Tested up to: 3.4.1
-Stable tag: 1.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
-Make your Screen Options and Help tabs more noticeable.
+Donate link: http://kjodle.info/support
+Tags: Star Trek
+Requires at least: 3.0
+Tested up to: 4.1.1
+Stable tag: 1.1
+License: GPLv3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
 == Description ==
 
@@ -41,6 +39,9 @@ No, other than to let users choose which color scheme they would like. Just beca
 3. The appearance of the open "Help" tab in the "Posts" pane.
 
 == Changelog ==
+
+= 1.1 =
+* CSS is contained in an external stylesheet, rather than being added to the <head> element, thus saving server resources.
 
 = 1.0 =
 * First release
