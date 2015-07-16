@@ -1,0 +1,24 @@
+/* Contextual Help Settings */
+/* RED */
+
+#contextual-help-link-wrap,
+#contextual-help-wrap {
+	border-bottom: 1px solid #CC0000;
+	border-left: 1px solid #CC0000;
+	border-right: 1px solid #CC0000;
+	background: #fff5f5;
+}
+
+#contextual-help-link-wrap { /* Fixes bottom border issue on #contextual-help-wrap */
+	border-top: none;
+	margin-right: 1px;
+	margin-top: -1px;
+	}
+
+a#contextual-help-link {
+	color: #CC0000;
+	font-weight: bold;
+	}
+a#contextual-help-link:hover {
+	color: #c00909;
+	}

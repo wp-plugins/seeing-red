@@ -1,0 +1,23 @@
+/* Screen Options Settings */
+/* RED */
+
+#screen-options-link-wrap,
+#screen-options-wrap {
+	border-bottom: 1px solid #CC0000;
+	border-left: 1px solid #CC0000;
+	border-right: 1px solid #CC0000;
+	background: #fff5f5;
+}
+
+#screen-options-link-wrap { /* Fixes bottom border issue on #screen-options-wrap */
+	border-top: none;
+	margin-top: -1px;
+	}
+
+a#show-settings-link {
+	color: #CC0000;
+	font-weight: bold;
+	}
+a#show-settings-link:hover {
+	color: #c00909;
+	}
