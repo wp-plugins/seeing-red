@@ -59,8 +59,9 @@ Not with this release, but I will add that if there is interest.
 
 == Changelog ==
 
-* Updated 15 July 2015 *
 = 2.0 =
+*Updated 15 July 2015*
+
 * A new settings page is added
 * Ability to style the screen options and help tabs separately
 * Four color schemes available for each tab: red, green, blue, default
